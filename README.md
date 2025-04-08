@@ -18,8 +18,8 @@ HTTP-сервис для сокращения URL-адресов и их пос�
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/osipovyakov/url-shortener.git
-cd url-shortener
+https://github.com/osipovyakov/5D_hub.git
+cd 5D_hub
 ```
 
 ### 2. Создать и активировать виртуальное окружение
