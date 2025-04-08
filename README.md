@@ -18,7 +18,7 @@ HTTP-сервис для сокращения URL-адресов и их пос�
 ### 1. Клонировать репозиторий
 
 ```bash
-https://github.com/osipovyakov/5D_hub.git
+git clone https://github.com/osipovyakov/5D_hub.git
 cd 5D_hub
 ```
 
